@@ -1,2 +1,2 @@
 # PrivacyAndSocialEngineering
-class
+Repo for course exercises
